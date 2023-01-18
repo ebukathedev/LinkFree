@@ -1,0 +1,24 @@
+{
+  "name": "Ebuka Ejiofor",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Frontend web developer & Technical writer",
+  "avatar": "https://github.com/ebukathedev.png",
+   "links": [
+    {
+      "name": "Twitter",
+      "url": "https://www.twitter.com/ebukathedev",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/chukwuebuka-ejiofor",
+      "icon": "FaLinkedIn"
+    },
+    {
+      "name": "Github",
+      "url": "https://www.github.com/ebukathedev",
+      "icon": "FaGithub"
+    }
+  ]
+}
